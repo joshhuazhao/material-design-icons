@@ -1,6 +1,6 @@
 node_modules
-android
-font
-ios
-src
-update
+android/
+font/
+ios/
+src/
+update/
